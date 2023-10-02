@@ -1,6 +1,6 @@
-<h1> Film Site </h1>
+<h1> Movie Site </h1>
 
-<h2>It is a website project created using HTML, CSS and JS.</h2>
+<h2>It is a movie website project created using HTML, CSS and JS.</h2>
 
 <h2> Contents </h2>
 
